@@ -5,3 +5,6 @@
 
 ## Прошедшие семинары
 [10.01.2025](seminar_numpy.ipynb): Решение задач на numpy массивы.
+
+[17.01.2025](seminar_pandas.ipynb): None, np.nan, pd.NA. Решение задач с датафреймами.
+
