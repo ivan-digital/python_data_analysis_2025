@@ -8,5 +8,7 @@
 
 [17.01.2025](seminar_pandas.ipynb): None, np.nan, pd.NA. Решение задач с датафреймами.
 
-[24.01.2024](seminar_gil_parralelism.ipynb): Pandas DataFrame статистика. Задачи и решения на параллелизм.
+[24.01.2025](seminar_gil_parallelism.ipynb): Pandas DataFrame статистика. Задачи и решения на параллелизм.
+
+[31.01.2025](seminar_plots.ipynb): Plots: Mathplotlib, Plotly. Вторая часть задачи и решения на параллелизм.
 
