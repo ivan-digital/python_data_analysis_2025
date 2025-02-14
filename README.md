@@ -14,3 +14,5 @@
 
 [07.02.2025](seminar_sql_orm.ipynb): Примитивы для коммуникации между потоками: Pipe Queue. SQL, оконные операторы и начало ORM.
 
+[14.02.2025](seminar_mrjob_orm.ipynb): MapReduce и практика с mrjob. ORM оконные функции и связи.
+
