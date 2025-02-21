@@ -16,3 +16,5 @@
 
 [14.02.2025](seminar_mrjob_orm.ipynb): MapReduce и практика с mrjob. ORM оконные функции и связи.
 
+[21.02.2025](seminar_spark_one.ipynb): Spark: SparkContext and Session, SQL, RDD, ML.
+
