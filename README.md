@@ -18,3 +18,5 @@
 
 [21.02.2025](seminar_spark_one.ipynb): Spark: SparkContext and Session, SQL, RDD, ML.
 
+[28.02.2025](seminar_spark_two.ipynb): Spark: Dataset, partitioning, broadcast.
+
