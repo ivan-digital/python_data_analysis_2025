@@ -20,3 +20,5 @@
 
 [28.02.2025](seminar_spark_two.ipynb): Spark: Dataset, partitioning, broadcast.
 
+[07.03.2025](seminar_streamlit.ipynb): Streamlit: Base UI, client-server architecture, model training and data visualisation.
+
