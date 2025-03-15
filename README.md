@@ -22,3 +22,5 @@
 
 [07.03.2025](seminar_streamlit.ipynb): Streamlit: Base UI, client-server architecture, model training and data visualisation.
 
+[14.03.2025](seminar_asgi_fastapi.ipynb): WSGI/ASGI, Gginx Loadb Balancer, FastAPI and etc.
+
